@@ -13,9 +13,19 @@
 
 - https://github.com/AndrewKoliaka/medium_blog
 
+写真多めのほうが見る気が起きる。
+
+文字多いのは威圧感がある？
+慣れていない人は「あー無理」
+
+
+
 - https://github.com/ColorlibHQ/gentelella
 
+テンプレ感がすごい...
+
 - https://github.com/tabler/tabler-react
+
 
 
 
